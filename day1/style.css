@@ -1,0 +1,40 @@
+#body{
+    color: black;
+    background-color: lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("paper.gif");
+}
+
+
+hr{
+    background-color: lightblue;   /* color of the border*/
+    border-style: dotted none none;       /* style of border*/
+    border-width: 5px;
+    height: 0px;
+    width: 10%;
+}
+
+.pfp{
+    max-width: 150px;
+    
+}
+.BU{
+    border-radius: 20px;
+    max-width: 80px;
+}
+
+.rkm{
+max-width: 80px;
+border-radius: 100%;
+
+}
+
+.Coal_india{
+
+    max-width: 80px;
+    border-radius: 100%;
+}
+/* 
+body{
+    background-image: url("croppdpfp.png");
+} */
